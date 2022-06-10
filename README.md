@@ -1,4 +1,4 @@
-# Desafio-Dio-Geracao-Tech-BH-Primeiro-Repositorio
+# Geracao-Tech-BH-Primeiro-Repositorio
 Repositorio para prática no Git/GitHub
 
 #### **Anotações Importantes do Bootcamp Geração Tech Unimed-BH | Fullstack**
